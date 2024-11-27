@@ -1,6 +1,6 @@
 {
 	"name": "minesweeper",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "[Minesweeper](https://en.wikipedia.org/wiki/Microsoft_Minesweeper) is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden \"mines\" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field.",
 	"main": "index.html",
 	"scripts": {
@@ -8,17 +8,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Pdut89/minesweeper.git"
+		"url": "git+https://github.com/pieter-dutoit/minesweeper.git"
 	},
 	"keywords": [
-		"minesweeper"
+		"minesweeper",
+		"TypeScript"
 	],
 	"author": "Pieter du Toit",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Pdut89/minesweeper/issues"
+		"url": "https://github.com/pieter-dutoit/minesweeper/issues"
 	},
-	"homepage": "https://github.com/Pdut89/minesweeper#readme",
+	"homepage": "https://github.com/pieter-dutoit/minesweeper",
 	"devDependencies": {
 		"lite-server": "^2.6.1"
 	},

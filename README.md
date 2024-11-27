@@ -6,35 +6,42 @@
 
 ## Getting Started
 
-Just clone or download the project and run in your browser. Make sure JS is turned on.
+Just clone or download the project and run in your browser.
 
-```git clone https://github.com/Pdut89/Minesweeper```
+```shell
+#  Clone
+git clone https://github.com/pieter-dutoit/minesweeper.git
+
+
+#  Install dependencies
+pnpm i
+
+#  Run dev server
+pnpm run dev
+```
 
 ## Built With
 
-* [JS](https://www.javascript.com/)
+* [TypeScript](https://www.typescriptlang.org/)
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ## Contributing
 
-#### Suggested changes:
-* Styling edits
-* Completing the 'reset game' function
-* Allow user to customise board size
-* Anything else
+* Create a new GitHub issue and label it appropriately
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests.
+* Fork the repository
+
+* Create a new branch, following [conventional branch guidelines](https://conventional-branch.github.io/)
+
+* Commit your work, following [conventional commit guidelines](https://www.conventionalcommits.org/en/v1.0.0/)
+
+* Push your work to GitHub and create a new pull request (to **v2-develop**)
+
+* Wait for approval before merging
+
+* Add yourself to the author list below
 
 ## Authors
 
-* **Pdut89** - *Initial work*
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
+* pieter-dutoit
